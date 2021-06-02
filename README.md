@@ -9,7 +9,7 @@
 
 ```javascript
 const Data = {
-  pronouns: "her",
+  pronouns: "Irias",
   code: [Javascript, HTML, CSS, PHP],
   tools: [React, Redux, Node, Storybook, Styled-Components, Asinc-Await, Promises, ES6],
   architecture: [microservices, event-driven, Rest-Apis, Graphql],
