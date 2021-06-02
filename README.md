@@ -11,8 +11,8 @@ i specialize in back-end
 const thai = {
   pronouns: "her",
   code: [Javascript, HTML, CSS, PHP],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Asinc-Await, Promises, ES6],
+  architecture: [microservices, event-driven, Rest-Apis, Graphql],
   studies: [UNAH, Udemy, Codepen, Informática Administratica, AWS, Ubuntu Termninal],
   hobbies:[watch video, watch series Netflix 😄],
   frameword:[ReactJs, React-Native, Laravel, Vue]
