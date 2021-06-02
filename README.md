@@ -1,5 +1,5 @@
 ### Hi my name is Luis Alejadro Irias Ayala, i am from Honduras and i study informática administrativa at the "Universidad Nacional Autónoma de Honduras"
-### i specialize in back-end NodeJs
+### I specialize in back-end NodeJs
 
 👋
 
