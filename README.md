@@ -6,7 +6,7 @@
 ```javascript
 const Data = {
   pronouns: "Irias",
-  code: [Javascript, HTML, CSS, PHP],
+  code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Storybook, Styled-Components, Asinc-Await, Promises, ES6],
   architecture: [microservices, event-driven, Rest-Apis, Graphql],
   studies: [UNAH, Udemy, Codepen, Informática Administratica, AWS, Ubuntu Termninal],
